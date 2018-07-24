@@ -6,3 +6,4 @@ def crazy_strings(thing_1, thing_2)
   
 end
 #call method with more arguments
+#crazy_strings
