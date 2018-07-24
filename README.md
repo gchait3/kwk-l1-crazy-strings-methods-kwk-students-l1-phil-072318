@@ -9,3 +9,7 @@ Write a method `crazy_strings` that takes in two strings as arguments. The first
 
 For example, `crazy_strings("Hello", "Friends")` should return `"OLLEH fRIENDZ"`.
 
+def say_hello(thing_1.reverse.upcase, thing.2.swapcase)
+  puts "Hello #{thing_1}! I'm #{thing_2}."
+fRIENDZ
+say
