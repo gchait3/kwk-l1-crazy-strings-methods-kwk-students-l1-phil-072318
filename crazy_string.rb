@@ -1,7 +1,8 @@
 # write your method here
 
-def crazy_strings(thing_1.reverse.upcase,thing_2.swapcase)
-  puts "Hello #{thing_1}!" I'm #{thing_2}"
+def crazy_strings(thing_1, thing_2)
+  puts thing_1.reverse.upcase
+  puts thing_2.swapcase
+  
 end
-
-say_hello ("things")
+#call method with more arguments
