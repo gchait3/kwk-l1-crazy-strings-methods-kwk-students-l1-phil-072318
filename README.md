@@ -11,5 +11,5 @@ For example, `crazy_strings("Hello", "Friends")` should return `"OLLEH fRIENDZ"`
 
 def say_hello(thing_1.reverse.upcase, thing.2.swapcase)
   puts "Hello #{thing_1}! I'm #{thing_2}."
-fRIENDZ
-say
+end
+say_hello ("things")
